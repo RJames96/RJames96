@@ -1,0 +1,1 @@
+Hello, my name is Rilee Woday, I'm currently interested in learning front end web development. I'm currently taking ourses on HTML, CSS, and Javascript. I hope to eventally find work as a junior level web developer. 
